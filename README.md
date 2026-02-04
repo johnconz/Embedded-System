@@ -1,4 +1,4 @@
-# Embedded System
+# Project Overview
 
 This project involved first defining and connecting embedded hardware to various components on an Altera DE2-115 board, and then programming said components in C and VHDL to perform a variety of simple tasks. <br>
 
